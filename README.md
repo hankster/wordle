@@ -2,6 +2,7 @@
 A Python program to help with hints in solving the Wordle game.
 
 https://powerlanguage.co.uk/wordle/
+
 https://www.nytimes.com/games/wordle/index.html
 
 Requires downloading of English dictionaries.
